@@ -41,7 +41,7 @@ var NodesmithProvider = /** @class */ (function (_super) {
                 host = "aion.api.nodesmith.io/v1/mainnet/jsonrpc";
                 break;
             case "mastery":
-                host = "aion.api.nodesmith.io/v1/testnet/jsonrpc";
+                host = "aion.api.nodesmith.io/v1/mastery/jsonrpc";
                 break;
             case "avmtestnet":
                 host = "aion.api.nodesmith.io/v1/avmtestnet/jsonrpc";
